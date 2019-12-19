@@ -1,0 +1,55 @@
+h1 {
+  color: #f5f5f5;
+  text-shadow: -0.5px 0.5px 0.5px black;
+  text-align: center;
+}
+
+h2 {
+  /* make bolder */
+  /* border: white solid 1px; */
+  margin-top: 75px;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #e4d2e4;
+}
+
+footer {
+  margin-top: 100px;
+}
+.navbar-brand {
+  font-weight: 600px;
+}
+
+.bg-info {
+  color: #c8a2c8;
+}
+
+.jumbotron {
+  background-color: #e7d1ff;
+  margin-top: 10px;
+  border: white solid 1px;
+}
+
+.nav-link:hover {
+  color: red;
+}
+
+.content {
+  margin-top: 100px;
+}
+
+img.center {
+    display: block;
+    margin: 0 auto;
+    max-width: 50%;
+}
+
+a {
+  color: #a464a4;
+}
+
+a:hover {
+  color: #fbf8fb;
+}
